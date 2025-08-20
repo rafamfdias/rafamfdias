@@ -1,7 +1,7 @@
 
 # 👋 Hello, I'm Rafael Dias Nascentes
 
- Software Developer | Software Engineering Student | Brasília, Brazil
+ Software Developer | Information System Student | Brasília, Brazil
 
 Welcome to my profile! I'm currently diving deep into backend development as part of my learning journey. I'm passionate about understanding how things work under the hood and building solid foundations for scalable systems.
 
